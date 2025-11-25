@@ -19923,8 +19923,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   _speed: 10
-  _jumpSpeed: 8
-  _gravity: 10
+  _jumpSpeed: 20
+  _gravity: 100
   _sensitivity: 15
 --- !u!143 &1602918053
 CharacterController:
